@@ -22,6 +22,8 @@ In fact this guide uses the same configuration and can be read both in Github an
 
 ![](./images/TREFHT_glob_YEA_n20241202_methanemip.png)
 
+![]https://ns2345k.web.sigma2.no/datalake/olivie/wp1/globalmean_BC_act.png)
+
 ## Usage guide
 
 ## Recipes
