@@ -20,7 +20,7 @@ In fact this guide uses the same configuration and can be read both in Github an
 
 ### Determine the repository where you want to activate Github Pages
 
-![](./printscreen1.png)
+![](./images/TREFHT_glob_YEA_n20241202_methanemip.png)
 
 ## Usage guide
 
