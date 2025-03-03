@@ -24,11 +24,7 @@ In fact this guide uses the same configuration and can be read both in Github an
 
 ![](https://ns2345k.web.sigma2.no/datalake/olivie/wp1/globalmean_BC_act.png)
 
-## Usage guide
-
-## Recipes
-
-Since the purpose of this guide is to demonstrate how to publish multiple Markdown files as a website but I don't have much more to say I will propose to you some delicious recipes instead:
+## More detailed information
 
 * [Experiments](./recipes/Experiments.md)
 * [Parameters](./recipes/Parameters.md)
